@@ -1,6 +1,6 @@
-# singletc.github.io
+# singlet.cc
 
-Personal research website for Chong Teng, published with GitHub Pages.
+Personal research website for Chong Teng, published at <https://singlet.cc/> with GitHub Pages.
 
 The site is intentionally framework-free: semantic HTML and responsive CSS, with no client-side JavaScript.
 
