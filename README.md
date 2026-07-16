@@ -2,7 +2,7 @@
 
 Personal research website for Chong Teng, published with GitHub Pages.
 
-The site is intentionally framework-free: semantic HTML, responsive CSS, and a small amount of vanilla JavaScript.
+The site is intentionally framework-free: semantic HTML and responsive CSS, with no client-side JavaScript.
 
 ## Local preview
 
